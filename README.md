@@ -1,4 +1,4 @@
-# Link to Webapp [https://world-bank-dashboard-api.herokuapp.com](https://world-bank-dashboard-api.herokuapp.com)
+# Link to Webapp [http://world-bank-gh.herokuapp.com/](http://world-bank-gh.herokuapp.com/)
 
 # World Bank API Data Dashboard 
 
